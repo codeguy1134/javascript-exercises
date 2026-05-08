@@ -14,6 +14,7 @@ const sumAll = function (a, b) {
     return sum;
     }
 };
+ddfsdfs
 
 console.log(sumAll(1, 4));
 
