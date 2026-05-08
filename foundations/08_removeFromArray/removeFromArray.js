@@ -3,7 +3,7 @@ const removeFromArray = function(arr, ...args) {
     return result;
 };
 
-console.log(removeFromArray([1, 2, 3, 4], 7, tacos));
+console.log(removeFromArray([1, 2, 3, 4], 7, "tacos"));
 
 // Do not edit below this line
 module.exports = removeFromArray;
